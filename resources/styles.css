@@ -46,3 +46,9 @@
         text-align: center;
     }
 }
+
+a {
+    color: gray;
+    font-style: italic;
+    text-decoration: none;
+}
