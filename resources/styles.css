@@ -47,6 +47,10 @@
     }
 }
 
+#name1, .norm {
+    font-style: normal;
+}
+
 a {
     color: gray;
     font-style: italic;
