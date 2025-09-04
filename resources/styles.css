@@ -51,8 +51,14 @@
     font-style: normal;
 }
 
+/* fonts and styles */
+
 a {
     color: gray;
     font-style: italic;
     text-decoration: none;
+}
+
+#prjct-font-style, #prjct-font-style2 {
+    font-style:normal
 }
