@@ -1,0 +1,48 @@
+/* Media queries */
+@media screen and (min-width: 650px) {
+    .carousel {
+        width: 450px;
+        height: auto;
+        margin: auto;
+    }
+
+    main, footer, header h1 {
+        margin: auto 4rem;
+    }
+
+    #about {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .carousel {
+        width: 600px;
+        height: auto;
+        margin: auto;
+    }
+
+    main, footer, header h1 {
+        margin: auto 8rem;
+    }
+
+    #about {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .carousel {
+        width: 700px;
+        height: auto;
+        margin: auto;
+    }
+
+    main, footer, header h1 {
+        margin: auto 10rem;
+    }
+
+    #about {
+        text-align: center;
+    }
+}
